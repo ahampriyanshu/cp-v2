@@ -1,0 +1,110 @@
+# The Site Configuration
+
+theme: jekyll-theme-chirpy
+baseurl: ''
+url: 'https://cp.ahampriyanshu.com'
+lang: en
+timezone: Asia/Kolkata
+title: 'My Experiments With Competitive Programming'
+author: 'Priyanshu Tiwari'  
+tagline: 'my experiments with competitive programming'
+description: 'Experimenting with various competitive programming resources/lists on various platforms'                 
+
+social:
+  name: 'Priyanshu Tiwari'
+  email: ahampriyanshu@gmail.com     
+  links:
+    - https://twitter.com/ahampriyanshu
+    - https://www.linkedin.com/in/ahampriyanshu
+    - https://github.com/ahampriyanshu
+    - https://www.instagram.com/ahampriyanshu
+
+google_analytics:
+  id: 'GTM-TZHF235'
+  pv:
+    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+
+theme_mode:   # [light|dark]
+img_cdn: ''
+avatar: assets/img/logo.png
+toc: true
+
+disqus:
+  comments: false 
+  shortname: ''   
+
+paginate: 20
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  -
+    scope:
+      path: _drafts
+    values:
+      comments: false
+  -
+    scope:
+      path: ''
+      type: tabs             # see `site.collections`
+    values:
+      layout: page
+      permalink: /:title/
+      dynamic_title: true    # Hide title in mobile screens.
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - '*.gem'
+  - '*.gemspec'
+  - tools
+  - docs
+  - README.md
+  - LICENSE
+  - gulpfile.js
+  - node_modules
+  - '*.json'
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
