@@ -64,7 +64,7 @@ public:
 
 ## 3 Sept | Erect the Fence
 
-* Really leetcode! this question in this challenge.
+* Really leetcode? this question in this challenge.
 
 ## 4 Sept | Erect the Fence
 

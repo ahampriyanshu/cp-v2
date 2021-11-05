@@ -1,7 +1,7 @@
 ---
 title: "30 Days of Code : Hackerrank"
 author: Priyashu Tiwari
-date: 2021-11-01 18:33:00 +0530
+date: 2021-06-13 18:33:00 +0530
 categories: [hackerrank]
 tags: [hackerrank, '30 days of code', 'c', 'js', 'java', 'python']
 ---

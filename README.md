@@ -20,9 +20,9 @@ I'm about to start the fifth semester of my graduation, yet I haven't focused on
 | Sept|  |  |  | 
 | Oct |  |  |  | 
 
-### Some important checkpoints
+## Some important checkpoints
 
-#### By Nov, 2021
+#### By Jan, 2021
 
 * [] Complete all the basic data structures
 * [] Fundamental of C++
@@ -32,9 +32,6 @@ I'm about to start the fifth semester of my graduation, yet I haven't focused on
 * [] 3* on Leetcode
 * [] 3* star at codechef
 * [] 50+ on project euler
-
-#### By Feb, 2022
-#### By May, 2022
 
 * This site is hosted on [GitHub Pages](https://pages.github.com/) with [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy/)
 
