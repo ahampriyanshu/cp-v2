@@ -8,7 +8,7 @@ I'm about to start the fifth semester of my graduation, yet I haven't focused on
 |  |  Codeforces | Leetcode | Codechef | Project Euler 
 |:--|:--|:--|:--|:--
 | Nov | 874 | 1427 | 1578 | 13 
-| Dec |  |  |  | 
+| Dec | 874 | 1427 | 1578 | 13
 | Jan |  |  |  | 
 | Feb |  |  |  | 
 | Mar |  |  |  | 
