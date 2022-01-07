@@ -9,7 +9,7 @@ I'm about to start the fifth semester of my graduation, yet I haven't focused on
 |:--|:--|:--|:--|:--
 | Nov | 874 | 1427 | 1578 | 13 
 | Dec | 874 | 1427 | 1578 | 13
-| Jan |  |  |  | 
+| Jan | 953 | 1427 | 1578 | 13
 | Feb |  |  |  | 
 | Mar |  |  |  | 
 | Apr |  |  |  | 

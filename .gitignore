@@ -16,3 +16,11 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+
+# code
+code
+*.cpp
+*.java
+*.py
+*.class
+*.out

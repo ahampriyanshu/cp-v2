@@ -1,14 +1,12 @@
 ---
-title: "1300 | Ladders | a2oj"
+title: "Div 1 | Ladders | a2oj"
 author: Priyashu Tiwari
 date: 2021-09-1 20:00:00 +0530
 categories: [a2oj]
 tags: [a2oj, ladder, codeforces]
 ---
 
-## Diffculty 1
-
-### 1 Young Physicist
+## 1 Young Physicist
 
 ```cpp
 #include <bits/stdc++.h>
@@ -45,7 +43,7 @@ int main()
 }
 ```
 
-### 2 Beautiful Matrix
+## 2 Beautiful Matrix
 
 ```cpp
 #include <bits/stdc++.h>
@@ -75,7 +73,7 @@ int main()
 }
 ```
 
-### 4 Borze
+## 4 Borze
 
 ```cpp
 #include <bits/stdc++.h>
@@ -116,7 +114,7 @@ int main()
 }
 ```
 
-### 5 Beautiful Year
+## 5 Beautiful Year
 
 ```cpp
 #include <bits/stdc++.h>
@@ -149,7 +147,7 @@ int main()
 }
 ```
 
-### 6 Lights Out
+## 6 Lights Out
 
 ```cpp
 #include <bits/stdc++.h>
@@ -193,7 +191,7 @@ int main()
 }
 ```
 
-### 7 Word
+## 7 Word
 
 ```cpp
 #include <bits/stdc++.h>
@@ -230,7 +228,7 @@ int main()
 }
 ```
 
-### 8 Word Capitalization
+## 8 Word Capitalization
 
 ```cpp
 #include <bits/stdc++.h>
@@ -249,7 +247,7 @@ int main()
 }
 ```
 
-### 9 Nearly Lucky Number
+## 9 Nearly Lucky Number
 
 ```cpp
 #include <bits/stdc++.h>
@@ -281,7 +279,7 @@ int main()
 }
 ```
 
-### 10 Stones on the Table
+## 10 Stones on the Table
 
 ```cpp
 #include <bits/stdc++.h>
@@ -308,7 +306,7 @@ int main()
 }
 ```
 
-### 11 Panoramix’s Prediction
+## 11 Panoramix’s Prediction
 
 ```cpp
 #include <bits/stdc++.h>
@@ -350,7 +348,7 @@ int main()
 }
 ```
 
-### 12 Ultra-Fast Mathematician
+## 12 Ultra-Fast Mathematician
 
 ```cpp
 #include <bits/stdc++.h>
@@ -371,7 +369,7 @@ int main()
 }
 ```
 
-### 13 Perfect Permutation
+## 13 Perfect Permutation
 
 ```cpp
 #include <bits/stdc++.h>
@@ -396,7 +394,7 @@ int main()
 }
 ```
 
-### 14 Arrival of the General
+## 14 Arrival of the General
 
 ```cpp
 #include <bits/stdc++.h>
@@ -428,7 +426,7 @@ int main()
 }
 ```
 
-### 15 Drinks
+## 15 Drinks
 
 ```cpp
 #include <bits/stdc++.h>
@@ -451,7 +449,7 @@ int main()
 }
 ```
 
-### 16 Insomnia cure
+## 16 Insomnia cure
 
 ```cpp
 #include <bits/stdc++.h>
@@ -473,7 +471,7 @@ int main()
 }   
 ```
 
-### 20 Helpful Maths
+## 20 Helpful Maths
 
 ```cpp
 #include <bits/stdc++.h>
@@ -499,7 +497,7 @@ int main()
 }
 ```
 
-### 30 Effective Approach
+## 30 Effective Approach
 
 ```cpp
 #include <bits/stdc++.h>
@@ -525,10 +523,4 @@ int main()
     }
     cout << ans << endl;
 }
-```
-
-## Diffculty 2
-
-```cp
-
 ```
