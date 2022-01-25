@@ -1,7 +1,7 @@
 # My Experiments With Competitive Programming
 
 ## Why
-I'm about to start the fifth semester of my graduation, yet I haven't focused on my data structures, algorithms, competitive programming. So, I'm creating this repo/blog to get regular at cp(thus hopefully improving my solving skills). I will be experimenting with this domain for the next 10-12 months. So let's see how this experiment goes :crossed_fingers:
+I'm about to start the fifth sem of graduation, yet I haven't started competitive programming, data structures, algorithms. I'm creating this repo/blog to get regular at cp(thus hopefully improving my solving skills). I will be experimenting with this domain for the upcoming 10-12 months. So let's see how this experiment goes :crossed_fingers:
 
 ## Progress
 
