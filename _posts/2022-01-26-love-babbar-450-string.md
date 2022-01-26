@@ -3,7 +3,7 @@ title: "String | 450 DSA | Love Babbar"
 author: Priyashu Tiwari
 date: 2022-01-26 10:00:00 +0530
 categories: [lovebabbar]
-tags: [love, babbar, 450, dsa, sheet, string]
+tags: [love, babbar, '450 dsa', sheet, string]
 ---
 
 ## Day 1

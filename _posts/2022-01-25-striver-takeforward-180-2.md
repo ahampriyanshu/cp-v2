@@ -20,7 +20,7 @@ tags: [striver, tuf, ds, algo, takeUforward]
 
 #### Better
 
-* Apply binary seatch.
+* Apply binary search.
 * Time Complexity : **O(n*log(m*(d^10)))** 
 * Space Complexity : **O(1)**
 
@@ -99,4 +99,52 @@ double findNthRootOfM(int n, long long m) {
 
     return xk;
 }
+```
+
+
+## Day 15 | String
+
+### Problem 1: Reverse Words in a String
+
+* You are given a string of length N. You need to reverse the string word by word. There can be multiple spaces between two words and there can be leading or trailing spaces but in the output reversed string you need to put a single space between two words, and your reversed string should not contain leading or trailing spaces.
+* [Code Studio](https://www.codingninjas.com/codestudio/problems/696444)
+* [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+#### Worst/Better
+
+* Use in built methods and containers like stack, vector and reverse().
+* Time Complexity : **O(n)** 
+* Space Complexity : **O(n)**
+
+#### Optimal 
+
+* Reverse the whole string. Reverse word by word.
+* Time Complexity : **O(n)** 
+* Space Complexity : **O(1)**
+
+```cpp
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        reverse(s.begin(), s.end());
+        int l = 0, r = 0, i = 0, n = s.size();
+        while (i < n) {
+            while (i < n && s[i] != ' ')
+                s[r++] = s[i++];
+
+            if (l < r) { 
+                reverse(s.begin() + l, s.begin() + r);
+                if (r == n) break;
+                s[r++] = ' ';
+                l = r;
+            }
+            ++i;
+        }
+        if (r > 0 && s[r-1] == ' ') --r;
+        s.resize(r);
+        return s;
+    }
+};
+
 ```
