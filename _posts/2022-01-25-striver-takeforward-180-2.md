@@ -1,7 +1,7 @@
 ---
 title: "Part 2 | Striver-180 | takeUforward"
 author: Priyashu Tiwari
-date: 2022-01-1 10:00:00 +0530
+date: 2022-01-25 10:00:00 +0530
 categories: [takeUforward]
 tags: [striver, tuf, ds, algo, takeUforward]
 ---
