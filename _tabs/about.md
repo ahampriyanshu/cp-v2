@@ -26,7 +26,9 @@ I'm about to start the fifth sem of graduation, yet I haven't started competitiv
 
 ## Attribution
 
-* This site is hosted on [GitHub Pages](https://pages.github.com/) with [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy/).
+* [GitHub Pages](https://pages.github.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy/).
 * [TakeUforward](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 * [a2oj](https://a2oj.com/)
 * [Project Euler](https://projecteuler.net/)

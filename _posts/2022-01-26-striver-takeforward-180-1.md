@@ -1,9 +1,9 @@
 ---
-title: "Part 1 | Striver-180 | TUF"
+title: "Part 1 | Striver-180 | takeUforward"
 author: Priyashu Tiwari
-date: 2021-03-1 10:00:00 +0530
-categories: [striver]
-tags: [striver, tuf, ds, algo]
+date: 2022-01-26 10:00:00 +0530
+categories: [takeUforward]
+tags: [striver, tuf, ds, algo, takeUforward]
 ---
 
 ## Day 1 | Arrays
@@ -12,7 +12,7 @@ tags: [striver, tuf, ds, algo]
 
 * [Find the duplicate in an array of N+1 integers.](https://leetcode.com/problems/find-the-duplicate-number/)
 
-#### Brute
+#### Worst
 
 * Just apply mergesort
 * Time Complexity : **O(nlogn)**
@@ -62,7 +62,7 @@ public:
 
 * [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo ](https://leetcode.com/problems/sort-colors/)
 
-#### Brute
+#### Worst
 
 * Just apply mergesort
 * Time Complexity : **O(nlogn)**
@@ -151,7 +151,7 @@ public:
 
 * [Find the repeating and the missing](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
 
-#### Brute 
+#### Worst 
 
 * Apply mergesort and then find the missing and repeating value.
 * Time Complexity : **O(nlogn)**
@@ -244,7 +244,7 @@ public:
 
 * [Find the repeating and the missing](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
 
-#### Brute 
+#### Worst 
 
 * Swap all the smaller numbers from the second array and then sort both the resultant arrays.
 * Time Complexity : **O(nlogn)**
@@ -332,7 +332,7 @@ public:
 
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-#### Brute
+#### Worst
 
 * Use two loop and compare the sum of evey subarray.
 * Time Complexity : **O(n^2)**
@@ -383,7 +383,7 @@ public:
 
 * [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
-#### Brute
+#### Worst
 
 * This question has been updated on leetcode with newer constraints : _-2^31 <= matrix[i][j] <= 2^31 - 1_. Hence, we will have to use some extra space.
 
@@ -473,7 +473,7 @@ public:
 
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-#### Brute
+#### Worst
 
 * This question has been updated on leetcode with newer constraints : _-2^31 <= matrix[i][j] <= 2^31 - 1_. Hence, we will have to use some extra space.
 
@@ -504,7 +504,7 @@ public:
 
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-#### Brute / Better / Optimal
+#### Worst / Better / Optimal
 
 
 * Just use two temp variables, one to store the prev node and another store the current node.
@@ -534,7 +534,7 @@ public:
 
 * [N meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
-#### Brute / Better / Optimal
+#### Worst / Better / Optimal
 
 
 * Make a new pair and then sort it on the basis of *end-time* and then compare in another for/while loop.

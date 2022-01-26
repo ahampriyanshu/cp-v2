@@ -11,7 +11,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**
@@ -46,7 +46,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**
@@ -81,7 +81,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**
@@ -116,7 +116,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**
@@ -151,7 +151,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**
@@ -186,7 +186,7 @@ tags: [skeleton]
 
 * []()
 
-### Brute
+### Worst
 
 * 
 * Time Complexity : **O()**

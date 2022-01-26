@@ -115,7 +115,7 @@ public:
 
 ## 6 Nov | 260. Single Number III
 
-#### Brute 
+#### Worst 
 
 * Sort the vector and skip `` if num[i] == num[i+1] ``
 * Time Complexity : **O(nlongn)** 
