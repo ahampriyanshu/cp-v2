@@ -1,5 +1,5 @@
 ---
-title: "Part 3 | Striver-180 | takeUforward"
+title: "21 - 30 | Striver 180 | takeUforward"
 author: Priyashu Tiwari
 date: 2022-01-24 10:00:00 +0530
 categories: [takeUforward]
